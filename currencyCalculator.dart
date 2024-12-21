@@ -79,7 +79,7 @@ class _CurrencyConverterState extends State<CurrencyConverter> {
             DrawerHeader(
               child: Center(
                 child: Text(
-                  'Accad Assist 1010',
+                  'Accad Assist 10102020',
                   style: TextStyle(
                     color: isDarkMode ? Colors.white : const Color(0xFF2A2A2A),
                     fontSize: 40,
